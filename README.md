@@ -1,5 +1,6 @@
 # ResNet-tutorial
-Residual Network 리뷰 및 코딩 연습. <br/>
+Residual Network 리뷰 및 코딩 연습. <br/><br/>
+
 일반적으로 평평하게 쌓는 네트워크(=plain network)는 레이어 개수가 깊어질수록 학습 난위도가 커지면서 성능은 떨어진다. <br/>
 왜냐하면, 레이어가 증가하는 만큼 학습해야할 파라미터 개수도 증가하기 때문에 수렴 난위도가 높아진다 (e.g., vanishing/exploding gradients, degradation problem). 
 
