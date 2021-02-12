@@ -10,6 +10,9 @@ Residual Network 리뷰 및 코딩 연습. <br/><br/>
 * 덕분에 레이어가 더 깊어질수록 성능 또한 증가한다. 
 
 
+※ [dimension matching](https://youtu.be/671BsKl8d0E?t=1628) 부분이 어떻게 구현됐는지 보기
+
+
 ***
 ### Reference 
 [1] [ResNet: Deep Residual Learning for Image Recognition, 꼼꼼한 딥러닝 논문 리뷰와 코드 실습, YouTube](https://youtu.be/671BsKl8d0E) / 논문 리뷰와 코드 실습을 초보자도 이해하기 쉽게 설명해줌. Bottle_neck 구조와 shortcut 설명 주의깊게 듣기.  <br/>
