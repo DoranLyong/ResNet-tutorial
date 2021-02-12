@@ -10,7 +10,8 @@ Residual Network 리뷰 및 코딩 연습. <br/><br/>
 * 덕분에 레이어가 더 깊어질수록 성능 또한 증가한다. 
 
 
-※ [dimension matching](https://youtu.be/671BsKl8d0E?t=1628) 부분이 어떻게 구현됐는지 보기
+※ [dimension matching](https://youtu.be/671BsKl8d0E?t=1628) 부분이 어떻게 구현됐는지 보기 <br/>
+※ [Identity vs. Projection Shortcuts](https://youtu.be/671BsKl8d0E?t=2032) / shorcut 부분도 학습 가능하게 만들까? 말까? 결론은 굳이 안 해도 됨.
 
 
 ***
