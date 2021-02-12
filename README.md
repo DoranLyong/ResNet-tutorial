@@ -11,7 +11,8 @@ Residual Network 리뷰 및 코딩 연습. <br/><br/>
 
 
 ※ [dimension matching](https://youtu.be/671BsKl8d0E?t=1628) 부분이 어떻게 구현됐는지 보기 <br/>
-※ [Identity vs. Projection Shortcuts](https://youtu.be/671BsKl8d0E?t=2032) / shorcut 부분도 학습 가능하게 만들까? 말까? 결론은 굳이 안 해도 됨.
+※ [Identity vs. Projection Shortcuts](https://youtu.be/671BsKl8d0E?t=2032) / shorcut 부분도 학습 가능하게 만들까? 말까? 결론은 굳이 안 해도 됨. <br/>
+※ [Bottleneck architectures](https://youtu.be/671BsKl8d0E?t=2079) / Identyty shortcut을 사용하면 bottleneck 구조의 복잡도를 줄여준다. 
 
 
 ***
