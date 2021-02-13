@@ -20,5 +20,6 @@ Residual Network 리뷰 및 코딩 연습. <br/><br/>
 [1] [ResNet: Deep Residual Learning for Image Recognition, 꼼꼼한 딥러닝 논문 리뷰와 코드 실습, YouTube](https://youtu.be/671BsKl8d0E) / 논문 리뷰와 코드 실습을 초보자도 이해하기 쉽게 설명해줌. Bottle_neck 구조와 shortcut 설명 주의깊게 듣기.  <br/>
 [2] [7.6. Residual Networks, d2l.ai](https://d2l.ai/chapter_convolutional-modern/resnet.html) / 시각화된 자료를 원한다면 참고 <br/>
 [3] [Deep Residual Learning for Image Recognition, CVPR2016](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) / 논문 링크 <br/>
-[4] [paper with code](https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition) / 코드 링크 
+[4] [paper with code](https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition) / 코드 링크 <br/>
+[5] [Pytorch ResNet implementation from Scratch, Aladdin Persson](https://youtu.be/DkNIBBBvcPs) / 논문 보면서 하나씩 코드 구현 
 
