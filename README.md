@@ -22,5 +22,5 @@ Residual Network 리뷰 및 코딩 연습. <br/><br/>
 [3] [Deep Residual Learning for Image Recognition, CVPR2016](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) / 논문 링크 <br/>
 [4] [paper with code](https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition) / 코드 링크 <br/>
 [5] [Pytorch ResNet implementation from Scratch, Aladdin Persson](https://youtu.be/DkNIBBBvcPs) / 논문 보면서 하나씩 코드 구현 <br/>
-[6] [MLT CNN Architectures: ResNet - implementation](https://youtu.be/LogyPK6M_L0) / 또다른 논문 구현 YouTube <br/>
+[6] [MLT CNN Architectures: ResNet - implementation](https://youtu.be/LogyPK6M_L0) / 또 다른 논문 구현 YouTube <br/>
 
