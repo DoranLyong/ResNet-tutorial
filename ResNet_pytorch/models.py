@@ -7,8 +7,7 @@ import torch.nn.functional as F # 학습 안 되는 레이어들을 담은 패�
 
 #%% residual-block 정의 
 class block(nn.Module):
-    def __init__(
-        self, in_channels, out_channels, identity_downsample=None, stride=1):
+    def __init__(self, in_channels, out_channels, identity_downsample=None, stride=1):
         super(block, self).__init__() # 상속받은 부모 클래스의 모든 attributes을 그대로 받아옴 
         self.expansion = 4
 
